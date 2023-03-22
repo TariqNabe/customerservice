@@ -1,4 +1,0 @@
-interface printable
-{
-    void print();
-}
